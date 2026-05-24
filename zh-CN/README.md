@@ -94,7 +94,7 @@ UI/UX 设计智囊。50+ 风格、161 调色板、57 字体搭配、99 UX 指南
 安装后在项目目录运行 `codegraph init -i` 启用，之后 Claude Code 在该项目中自动获得代码全局感知能力。
 
 - ⭐⭐⭐⭐⭐ · 在大型项目中用 Claude Code 的人
-- github.com/colbymchenry/codegraph
+- [github.com/colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
 
 ---
 
@@ -106,7 +106,7 @@ UI/UX 设计智囊。50+ 风格、161 调色板、57 字体搭配、99 UX 指南
 触发条件：发送图片、提到"分析这张图"、"图片里有什么" 等。
 
 - ⭐⭐⭐⭐ · 用 DeepSeek 等非多模态模型的人
-- github.com/20kiki/deepseek-eyes
+- [github.com/20kiki/deepseek-eyes](https://github.com/20kiki/deepseek-eyes)
 
 ---
 
@@ -121,8 +121,8 @@ ui-ux-pro-max、webapp-testing、mcp-builder、
 find-skills
 （frontend-design 和 skill-creator 官方自带，无需装）
 
-CodeGraph：github.com/colbymchenry/codegraph
-deepseek-eyes：github.com/20kiki/deepseek-eyes
+CodeGraph：https://github.com/colbymchenry/codegraph
+deepseek-eyes：https://github.com/20kiki/deepseek-eyes
 ```
 
 ---

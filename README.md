@@ -94,7 +94,7 @@ Semantic code maps for Claude Code. Provides global code awareness, reducing too
 After install, run `codegraph init -i` in your project directory.
 
 - ⭐⭐⭐⭐⭐ · Large project developers
-- github.com/colbymchenry/codegraph
+- [github.com/colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
 
 ---
 
@@ -106,7 +106,7 @@ Enables non-vision models (like DeepSeek) to understand images. Routes images th
 Triggers: sharing images, "analyze this picture", "what's in this image".
 
 - ⭐⭐⭐⭐ · DeepSeek and non-multimodal model users
-- github.com/20kiki/deepseek-eyes
+- [github.com/20kiki/deepseek-eyes](https://github.com/20kiki/deepseek-eyes)
 
 ---
 
@@ -121,8 +121,8 @@ ui-ux-pro-max, webapp-testing, mcp-builder,
 find-skills
 (frontend-design and skill-creator come pre-installed)
 
-CodeGraph: github.com/colbymchenry/codegraph
-deepseek-eyes: github.com/20kiki/deepseek-eyes
+CodeGraph: https://github.com/colbymchenry/codegraph
+deepseek-eyes: https://github.com/20kiki/deepseek-eyes
 ```
 
 ---
